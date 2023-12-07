@@ -9,4 +9,5 @@ I am a Computer Engineering student at TH Cologne, demonstrating a steadfast com
 Technology Stack:
 
 My enthusiasm lies in utilizing cutting-edge tools and technologies, fostering continuous development and refinement of my skill set.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ProgEcho=anuraghazra&theme=dark&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ProgEcho=anuraghazra&show_icons=true&theme=dark)
