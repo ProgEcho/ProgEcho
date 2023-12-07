@@ -10,4 +10,4 @@ Technology Stack:
 
 My enthusiasm lies in utilizing cutting-edge tools and technologies, fostering continuous development and refinement of my skill set.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ProgEcho=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgEcho&show_icons=true&theme=dark)
