@@ -1,15 +1,35 @@
-### Hi there 👋
+# Hi, I'm Soufian! 👋
 
-![Alt text](https://github.com/ProgEcho/ProgEcho/blob/main/MyLogo.png)
+<p align="center">
+  <img src="https://github.com/ProgEcho/ProgEcho/blob/main/MyLogo.png" alt="Logo" width="500"/>
+</p>
 
-I am a Computer Engineering student at TH Cologne, demonstrating a steadfast commitment to expanding my knowledge in the realms of technology and life.
+I'm a Computer Engineering student at TH Cologne, passionate about exploring technology and its applications in life.
 
-💻 Proficient self-taught software developer
-🚀 Aspiring Full Stack Developer
-🔍 Detail-oriented with a focus on crafting superior products
+- 💻 Constantly learning software development
+- 🚀 Aspiring Full Stack Developer
 
-Technology Stack:
+## Technology Stack:
 
-My enthusiasm lies in utilizing cutting-edge tools and technologies, fostering continuous development and refinement of my skill set.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,spring,js,html,css,postgres,mysql,git,eclipse,idea,&perline=5" alt="Technology Stack" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgEcho&show_icons=true&theme=dark)
+### Languages & Tools:
+
+<p align="center">
+  <a href="https://github.com/ProgEcho">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgEcho&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
+
+### Operating Systems:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
+</div>
+</br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgEcho&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
