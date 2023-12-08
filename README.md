@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt text](https://github.com/ProgEcho/ProgEcho/blob/main/MyLogo.png)
+
 I am a Computer Engineering student at TH Cologne, demonstrating a steadfast commitment to expanding my knowledge in the realms of technology and life.
 
 💻 Proficient self-taught software developer
