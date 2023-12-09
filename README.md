@@ -1,4 +1,4 @@
-# Hi, I'm Soufian! 👋
+<h2 align='center'><samp><strong>Hi 👋, I'm Soufian!</strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </samp></h2>
 
 <p align="center">
   <img src="https://github.com/ProgEcho/ProgEcho/blob/main/MyLogo.png" alt="Logo" width="500"/>
