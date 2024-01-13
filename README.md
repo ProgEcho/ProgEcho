@@ -12,7 +12,7 @@ I'm a Computer Engineering student at TH Cologne, passionate about exploring tec
 ## Technology Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,spring,js,html,css,postgres,mysql,git,eclipse,idea,&perline=5" alt="Technology Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,spring,angular,js,html,css,postgres,mysql,git,github,eclipse,idea,ps&perline=5" alt="Technology Stack" />
 </p>
 
 <p align="center">
