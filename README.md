@@ -36,9 +36,8 @@ I'm a Computer Engineering student at TH Cologne, passionate about exploring tec
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ProgEcho&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ProgEcho&show_icons=true" />
 </picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgEcho&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
