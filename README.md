@@ -16,7 +16,7 @@ I'm a Computer Engineering student at TH Cologne, passionate about exploring tec
 </p>
 <p align="center">
   <a href="https://github.com/ProgEcho/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgEcho&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgEcho&layout=compact" />
   </a>
 </p>
 
