@@ -14,7 +14,6 @@ I'm a Computer Engineering student at TH Cologne, passionate about exploring tec
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,spring,angular,js,html,css,postgres,mysql,git,github,eclipse,idea,ps&perline=5" alt="Technology Stack" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgEcho&layout=compact)
 <p align="center">
   <a href="https://github.com/ProgEcho/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgEcho&layout=compact&theme=tokyonight" alt="Top Languages" />
